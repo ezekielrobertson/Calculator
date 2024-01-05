@@ -1,4 +1,5 @@
 body{
+    background-image: url(images/galaxy_background.jpeg);
     margin: 0;
     display: flex;
     justify-content: center;
@@ -17,7 +18,8 @@ body{
     width: 100%;
     padding: 20px;
     font-size: 5rem;
-    text-align: right;
+    color: whitesmoke;
+    text-align: left;
     border: none;
     background-color: hsl(0, 0%, 20%);
 }
