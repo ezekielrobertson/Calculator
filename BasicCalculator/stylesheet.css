@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/galaxy_background.jpeg);
+    background-image: url(/images/galaxy_background.jpeg);
     margin: 0;
     display: flex;
     justify-content: center;
